@@ -1,6 +1,6 @@
 # food_emoji
 
-A new Flutter project.
+A Flutter App having minimalistic design made using emojis as assets
 
 ## Getting Started
 
